@@ -17,4 +17,4 @@ I am Second-year coding student at Codam Coding College (42's Amsterdam Campus).
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/avan-dam)
+[![Github](https://img.shields.io/github/followers/avan-dam?label=Follow&style=social)](https://github.com/avan-dam)
