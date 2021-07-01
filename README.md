@@ -8,10 +8,16 @@ My goal is to use tech for positive societal change.
 
 When I am not coding I love to run, meditate and read.
 
+On my Github you will find both school projects and personal projects.
+
+
+ [![Ambers's 42 stats](https://badge42.herokuapp.com/api/stats/avan-dam)](https://github.com/avan-dam/badge42)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avan-dam&theme=radical)
 
-![Ambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=avan-dam&show_icons=true&theme=radical)
+<!-- ![Ambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=avan-dam&show_icons=true&theme=radical)
+ -->
+
 
 
 ## ✉️ Find me on:
