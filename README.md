@@ -2,6 +2,12 @@
 
 I am Second-year coding student at Codam Coding College (42's Amsterdam Campus).
 
+Coding mainly in C & C++
+
+My goal is to use tech for positive societal change
+
+I love running meditating and reading
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avan-dam&theme=radical)
 
