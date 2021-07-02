@@ -15,8 +15,8 @@ On my Github you will find both school projects and personal projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avan-dam&theme=radical)
 
-<!-- ![Ambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=avan-dam&show_icons=true&theme=radical)
- -->
+<!-- ![Ambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=avan-dam&show_icons=true&theme=radical) -->
+
 
 
 
