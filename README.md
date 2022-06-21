@@ -1,6 +1,8 @@
 # Hi there
 
-I am Second-year coding student at Codam Coding College (42's Amsterdam Campus).
+Full stack working student developer at Deloitte Digital.
+
+My github mainly consists of all the amazing projects I produced at coding student at Codam Coding College (42's Amsterdam Campus).
 
 Before Codam I graduated with a first class degree in Philosophy, Politics and Economics. 
 
