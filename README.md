@@ -1,6 +1,6 @@
 # Hi there
 
-Full stack developer (working student) at Deloitte Digital.
+Full stack developer and consultant at Deloitte Digital.
 
 My github mainly consists of all the amazing projects I produced at coding student at Codam Coding College (42's Amsterdam Campus).
 
